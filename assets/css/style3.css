@@ -510,6 +510,8 @@ h3{
     position: relative;
     font-weight: bold;
     animation-iteration-count: infinite;
+    text-align: center;
+    font-size: 40px;
 }
 
 .diseño2{
