@@ -25,10 +25,10 @@ let text ="";
 let texto= "";
 console.log(suma);
 
-texto="el resultado es" +suma
+texto="el resultado es " +suma;
 
 while (suma <= 100){
-    text += "el resultado es" +suma+ "<br>";
+    text += "el resultado es " +suma+ "<br>";
     suma++;
 }
 document.getElementById("texto").innerHTML=texto;
